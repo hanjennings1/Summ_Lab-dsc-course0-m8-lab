@@ -1,8 +1,6 @@
-# Aviation Accident Analysis
-**Completed Nov 18, 2026**
-<br>
-<br>
 # Aviation Accident Analysis: Aircraft Safety Recommendations
+**Completed Nov 18, 2026**
+
 
 ## Overview
 This project analyzes NTSB aviation accident data (1948–2023) for an airline/airplane insurer. The goal is to identify which aircraft **makes and models** have the **lowest rates of aircraft destruction** and the **lowest likelihood of fatal or serious injuries** when an accident occurs, and to identify **conditions that contribute to accident severity**. Recommendations are given separately for **small aircraft** and **large passenger aircraft**.
